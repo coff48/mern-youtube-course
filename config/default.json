@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "baba yaga pensioner",
+    "mongoUri": "mongodb+srv://bob:bobomonga@cluster0.hzem2.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
